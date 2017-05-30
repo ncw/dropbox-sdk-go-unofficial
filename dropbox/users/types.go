@@ -25,9 +25,9 @@ package users
 import (
 	"encoding/json"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/team_policies"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/users_common"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox/team_policies"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox/users_common"
 )
 
 // Account : The amount of detail revealed about an account depends on the user

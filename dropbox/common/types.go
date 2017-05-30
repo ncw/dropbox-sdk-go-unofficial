@@ -24,7 +24,7 @@ package common
 import (
 	"encoding/json"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox"
 )
 
 // InvalidPathRootError : has no documentation (yet)

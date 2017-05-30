@@ -25,7 +25,7 @@ package properties
 import (
 	"encoding/json"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox"
 )
 
 // GetPropertyTemplateArg : has no documentation (yet)

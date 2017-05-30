@@ -26,10 +26,10 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/files"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/team_common"
-	"github.com/dropbox/dropbox-sdk-go-unofficial/dropbox/users"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox/files"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox/team_common"
+	"github.com/ncw/dropbox-sdk-go-unofficial/dropbox/users"
 )
 
 // AccessLevel : Defines the access levels for collaborators.
